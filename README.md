@@ -1,5 +1,5 @@
 <h1 align="center">Comment vas-tu👋, I'm Nickson Jackson Wilfest</h1>
-<h3 align="center">A DevOps engineer and Creative Graphic designer</h3>
+<h3 align="center">A Software Developer and Creative Graphic designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicksonjacksonwilfest&label=Profile%20views&color=0e75b6&style=flat" alt="nicksonjacksonwilfest" /> </p>
 
