@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicksonjacksonwilfest" alt="nicksonjacksonwilfest" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud computing & Container Orchestrations**
+- 🔭 I’m currently working on **DevOps Engineering**
 
-- 🌱 I’m currently learning **Security & Monitoring tools**
+- 🌱 I’m currently learning **CI/CD + Configuration Management**
 
-- 👯 I’m looking to collaborate on **Python + Bash scripting**
+- 👯 I’m looking to collaborate on **DevOps & DevSecOps**
 
 - 📫 How to reach me **devxjr.pro@gmail.com/nickson.wilfest@bigbee.io**
 
