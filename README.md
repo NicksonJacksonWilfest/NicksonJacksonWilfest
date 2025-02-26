@@ -1,5 +1,5 @@
-<h1 align="center">Comment vas-tu👋, I'm Nickson Jackson Wilfest</h1>
-<h3 align="center">A Software Developer and Creative Graphic designer</h3>
+<h1 align="center">Hello👋, I'm Nickson Jackson Wilfest</h1>
+<h3 align="center">A Software Developer and Creative Graphic designer with a strong foundation in Information Technology, passionate about building intuitive and high-performance web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicksonjacksonwilfest&label=Profile%20views&color=0e75b6&style=flat" alt="nicksonjacksonwilfest" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **devxjr.pro@gmail.com/nickson.wilfest@bigbee.io**
 
-- ⚡ Fun fact **Thought of being a programmer but am not**
+- ⚡ Fun fact **None**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
