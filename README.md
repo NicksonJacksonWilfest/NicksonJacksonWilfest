@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Nickson Wilfest</h1>
-<p align="center">A <strong>DevOps engineer</strong> who codes & <strong>Creative Graphic designer</strong> with a strong foundation in Information Technology, passionate about building intuitive and high-performance web applications.</p>
+<p align="center">A <strong>DevOps engineer</strong> & <strong>Full Stack Developer</strong> with a strong foundation in Information Technology, passionate about building intuitive and high-performance web applications.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicksonjacksonwilfest&label=Profile%20views&color=0e75b6&style=flat" alt="nicksonjacksonwilfest" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **DevOps Engineering**
 
-- 🌱 I’m currently learning **Security**
+- 🌱 I’m currently learning **Infrastructure as Code(IaC) and Configuration as Code (CaC)**
 
-- 👯 I’m looking to collaborate on **DevOps & DevSecOps**
+- 👯 I’m looking to collaborate on **DevOps & Full Stack Development**
 
-- 📫 How to reach me **devxjr.pro@gmail.com/nickson.wilfest@bigbee.io**
+- 📫 How to reach me **devxjr.pro@gmail.com**
 
 - ⚡ Fun fact **None**
 
