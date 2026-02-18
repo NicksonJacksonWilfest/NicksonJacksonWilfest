@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Nickson Wilfest</h1>
-<p align="center">A <strong>DevOps engineer</strong> & <strong>Full Stack Developer</strong> with a strong foundation in Information Technology, passionate about building intuitive and high-performance web applications.</p>
+<p align="center">A <strong>DevOps engineer</strong> & <strong>FullStack Developer</strong> with a strong foundation in Information Technology, passionate about building intuitive and high-performance web applications.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicksonjacksonwilfest&label=Profile%20views&color=0e75b6&style=flat" alt="nicksonjacksonwilfest" /> </p>
 
@@ -51,7 +51,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a>
 <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" alt="otel" width="60" height="60" /> </a>
-            
+
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -71,6 +71,14 @@
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</p>
+
+<a href="https://https://dart.dev/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="figma" width="40" height="40"/> </a>
+</p>
+
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicksonjacksonwilfest&show_icons=true&locale=en&layout=compact" alt="nicksonjacksonwilfest" /></p>
