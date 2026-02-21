@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Nickson Wilfest</h1>
-<p align="center">A <strong>DevOps engineer</strong> & <strong>FullStack Developer</strong> with a strong foundation in Information Technology, passionate about building intuitive and high-performance web applications.</p>
+<p align="center">A <strong>DevOps Engineer, Visual Designer</strong> & <strong>FullStack Developer</strong> with a strong foundation in Information Technology, passionate about building intuitive and high-performance web applications.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicksonjacksonwilfest&label=Profile%20views&color=0e75b6&style=flat" alt="nicksonjacksonwilfest" /> </p>
 
